@@ -1,6 +1,6 @@
 ---
 title: "Avikant Srivastava"
-image: "https://avatars.githubusercontent.com/u/41926176"
+image: "/images/authors/john-doe.jpg"
 email: "asdavikant@gmail.com"
 date: 2021-02-02T10:20:19+06:00
 draft: false
